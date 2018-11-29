@@ -9,7 +9,7 @@
   "keywords": [
     "cache"
   ],
-  "author": "fatclient",
+  "author": "fatclient <fatclient@protonmail.com>",
   "license": "ISC",
   "dependencies": {}
 }

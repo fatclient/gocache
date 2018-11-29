@@ -50,4 +50,4 @@ class GOCache {
 }
 
 
-module.exports = GOCahce;
+module.exports = GOCache;
