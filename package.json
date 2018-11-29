@@ -1,13 +1,13 @@
 {
-  "name": "memocache",
+  "name": "gocache",
   "version": "0.1.0",
-  "description": "Structure keeps an objects and either returns it or makes a request to refresh it, if expired.",
+  "description": "Structure keeps an objects and either returns it or calls a callback to refresh it, if expired.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cache", "memoize"
+    "cache"
   ],
   "author": "fatclient",
   "license": "ISC",
