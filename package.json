@@ -1,6 +1,6 @@
 {
   "name": "gocache",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Structure keeps an objects and either returns it or calls a callback to refresh it, if expired.",
   "main": "index.js",
   "scripts": {
