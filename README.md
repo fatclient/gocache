@@ -10,7 +10,7 @@ Usage
 let myCachedObject = new GOCache(5000, () => {
     return Date.now();
 })
-setInterval(() => console.log(myCachedObject.get()), 5000) 
+setInterval(() => console.log(myCachedObject.get()), 1000) 
 // expected to print same number 5 times
 
 ```
