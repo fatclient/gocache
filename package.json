@@ -15,6 +15,5 @@
   ],
   "author": "Max Ermakov <maksim_ermakov@protonmail.com>",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {}
 }
