@@ -1,11 +1,11 @@
 {
   "name": "gocache",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Structure keeps an objects and either returns it or calls a callback to refresh it, if expired.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fatclient/gocache.git"
+    "url": "https://github.com/tomateit/gocache.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "cache"
   ],
-  "author": "fatclient <fatclient@protonmail.com>",
+  "author": "Max Ermakov <maksim_ermakov@protonmail.com>",
   "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {}
 }
